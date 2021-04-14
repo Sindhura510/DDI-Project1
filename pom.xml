@@ -53,7 +53,7 @@
 					<groupId>com.atmecs.falcon.automation</groupId>
 					<artifactId>falcon-web-ui</artifactId>
 					<version>${falcon.ui.version}</version>
-					<url>${release.repo.download.url}</url>
+					
 				</dependency>
 				
 				<dependency>
